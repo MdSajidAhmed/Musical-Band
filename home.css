@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box
+}
+body {
+    margin: 0;
+}
+/* Banner  */
+.banner {
+    background-color: #475D6C;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+/* Navbr  */
+.navbr {
+    background-color: #356383;
+    overflow: hidden;
+}
+.navbr a {
+    color: white;
+    text-decoration: none;
+    padding: 16px 25px;
+    display: block;
+    float: left;
+}
+.navbr a:hover {
+    background-color: white;
+    color: black;
+}
+.avtive_nav {
+    background-color: tomato;
+
+}
